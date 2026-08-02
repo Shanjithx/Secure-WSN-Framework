@@ -1,0 +1,12 @@
+Metric,Value
+Total Energy Consumed (J),0.014873
+Average Residual Energy (J),1.999851
+Alive Nodes,100
+Dead Nodes,0
+First Node Death (FND),Not yet reached
+Half Node Death (HND),Not yet reached
+Last Node Death (LND),Not yet reached
+Packet Delivery Ratio (PDR),0.97
+Average End-to-End Delay (s),0.00014
+Throughput (packets/s),48.5
+Routing Overhead,0.030928

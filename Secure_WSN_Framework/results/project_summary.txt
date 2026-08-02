@@ -1,0 +1,52 @@
+=========================================================
+    SECURE WIRELESS SENSOR NETWORK FRAMEWORK SUMMARY     
+=========================================================
+
+Project Configuration:
+  - Total Network Nodes       : 100
+  - Base Station Position     : (50, 120)
+  - Simulation Time (seconds) : 100
+  - Configured Packets Sent   : 5000
+  - Packets Received          : 4850
+
+1. Clustering & Network Metrics:
+  - Cluster Head Count        : 10
+  - Active Alive Nodes        : 100
+  - Expired Dead Nodes        : 0
+  - Total Energy Consumed (J) : 0.0149 J
+  - Avg Residual Energy (J)   : 1.9999 J
+  - First Node Death (FND)    : Not yet reached
+  - Half Node Death (HND)     : Not yet reached
+  - Last Node Death (LND)     : Not yet reached
+
+2. Trust & Security Metrics:
+  - Average Node Trust Score  : 1.0000
+  - Max Node Trust Score      : 1.0000
+  - Min Node Trust Score      : 1.0000
+  - Suspicious Nodes Flagged  : 0
+  - Trusted Nodes in Network  : 100
+
+3. Routing Performance Metrics:
+  - Packet Delivery Ratio (PDR): 97.00%
+  - Average End-to-End Delay  : 0.1402 ms
+  - Throughput (packets/sec)  : 48.5000 packets/s
+  - Routing Protocol Overhead : 0.0309
+
+4. Intrusion Detection System (PRCNN IDS):
+  - Classification Accuracy   : 0.00%
+  - Weighted Precision        : 0.00%
+  - Weighted Recall           : 0.00%
+  - Weighted F1-Score         : 0.00%
+  - Specificity (TNR)         : 0.00%
+  - False Positive Rate (FPR) : 100.00%
+  - False Negative Rate (FNR) : 100.00%
+  - ROC-AUC Score (Weighted)  : 0.0000
+
+5. Execution Information:
+  - Overall Pipeline Run Duration: 290.6554 seconds
+
+Generated Output Files:
+  - CSV Records: results/network_metrics.csv, results/trust_metrics.csv, results/ids_metrics.csv, results/final_summary.csv
+  - Plot Graphics: graphs/energy_consumption.png, graphs/network_lifetime.png, graphs/alive_dead_nodes.png, graphs/packet_delivery_ratio.png, graphs/throughput.png, graphs/delay.png, graphs/routing_overhead.png, graphs/trust_distribution_final.png
+
+=========================================================

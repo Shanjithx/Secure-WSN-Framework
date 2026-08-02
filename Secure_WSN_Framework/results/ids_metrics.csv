@@ -1,0 +1,9 @@
+Metric,Value
+IDS Test Accuracy,0.0
+IDS Weighted Precision,0.0
+IDS Weighted Recall,0.0
+IDS Weighted F1-Score,0.0
+IDS Specificity,0.0
+IDS ROC-AUC Score,0.0
+False Positive Rate (FPR),1.0
+False Negative Rate (FNR),1.0
